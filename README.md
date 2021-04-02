@@ -1,1 +1,1 @@
-# ClusterArray 1.0.5
+# ClusterArray 1.0.6
